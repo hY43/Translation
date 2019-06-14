@@ -83,3 +83,5 @@ JUnit 개발의 진전을 분명히 보여주기 위해 아키텍쳐의 스냅�
 ![image](https://user-images.githubusercontent.com/8569429/46255044-72533780-c4d3-11e8-844f-5c59e734e6ad.gif)
 
 **Figure 1.** TestCase applies Command
+
+-- 진행중입니다.
